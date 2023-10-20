@@ -1,0 +1,6 @@
+reposo:link
+visitado:visited
+rollover:hover //cuando paso el click
+clik:active
+
+love/hate
